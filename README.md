@@ -1,7 +1,7 @@
 # Fz3r0 - JurassicPark.html 
 
 **Welcome to Jurassic Park!!!**...in `HTML 5`.<br><br> 
-Este proyecto son una serie de scripts "super mega raw" en HTML sin ningún tipo de estilo agregado, ni modificación de ningún tipo, ni tamaños, ni tipografías, etc... HTML en su estado más puro posible. 
+Este proyecto son una serie de scripts "super mega raw" en formato `HTML` 5 sin ningún tipo de estilo agregado, ni modificación de ningún tipo, ni tamaños, ni tipografías, etc... HTML en su estado más puro posible. 
 
 - El propósito de este proyecto es tanto para practicar `HTML 5` como para tener un proyecto base en formato `.html` lo más limpio posible para mis proyectos futuros de `CSS` y `Javascript`
 
