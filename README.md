@@ -1,16 +1,24 @@
-- Es un script super "raw" en HTML sin ningún tipo de estilo ni modificación, HTML en su estado más puro posible. 
+# Fz3r0 - JurassicPark.html 
+
+Proyecto de un script super "raw" en HTML sin ningún tipo de estilo agregado, ni modificación de ningún tipo... HTML en su estado más puro posible. 
+
+- El propósito de este proyecto es tanto para practicar `HTML` como para tener un proyecto base y lo más limpio posible para mis proyectos futuros de `CSS` y `Javascript`
 
 - Este script respeta por completo la `Semántica HTML` para que `CSS` lo pueda adaptar lo mejor posible.
 
 - Ajunto el proyecto completo incluyendo `directories`, `images`, `source-code`.
 
-- Espero esta información y tanto mi proyecto de `HTML` como el Lab de `CSS` ayude a alguien :)     
+- Espero esta información y tanto mi proyecto de `HTML` como el Lab de `CSS` ayude a alguien :)  
+
+# DESCARGAR DIRECTORIO COMPLETO
+
+- [<<<  DESCARGAR: CSS_Fz3r0_Lab-ROOTdir  >>>](https://github.com/Fz3r0/Web-Programming-Fz3r0/files/8765615/CSS_Fz3r0_Lab_-_ROOT_dir.zip) 
 
 ## Directorios y Archivos en el Server:
 
 ### Directorio "Fz3r0: Jurassic Park Pro HTML.zip"
 
-- **Descargar Directorio Completo** -> [Fz3r0: Jurassic Park Pro HTML](https://github.com/Fz3r0/Web-Programming-Fz3r0/files/8765615/CSS_Fz3r0_Lab_-_ROOT_dir.zip))
+- **Descargar Directorio Completo** -> [Fz3r0: Jurassic Park Pro HTML]())
 
 ### Páginas HTML Iniciales
 
