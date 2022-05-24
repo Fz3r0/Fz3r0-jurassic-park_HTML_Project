@@ -15,7 +15,9 @@ Este proyecto son una serie de scripts "super mega raw" en HTML sin ningún tipo
 
 # DESCARGAR DIRECTORIO COMPLETO
 
-- [|-----<<<  DESCARGAR: CSS_Fz3r0_Lab-ROOTdir  >>>-----|](https://github.com/Fz3r0/Web-Programming-Fz3r0/files/8765615/CSS_Fz3r0_Lab_-_ROOT_dir.zip) 
+- [|-----<<<  DESCARGAR: CSS_Fz3r0_Lab-ROOTdir  >>>-----|](https://github.com/Fz3r0/Web-Programming-Fz3r0/files/8765615/CSS_Fz3r0_Lab_-_ROOT_dir.zip)
+
+- Pull para Linux: `sudo git pull https://github.com/Fz3r0/jurassic-park-fz3r0_HTML_Project.git`  
 
 # Directorios y Archivos en el Server:
 
